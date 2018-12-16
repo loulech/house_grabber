@@ -1,0 +1,17 @@
+{
+  "name": "house_grab",
+  "version": "1.0.0",
+  "description": "grab lianjia house info",
+  "main": "main.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "generic-pool": "^3.4.2",
+    "phantom": "^6.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "loulech",
+  "license": "ISC"
+}
